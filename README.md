@@ -5,20 +5,21 @@ I am a passionate Product Tester with experience in **manual and automated testi
 
 ## 📝 My Testing Work
 ### 🔍 Bug Reports
-- E-commerce Checkout Bug Report:(./Bug-Reports/Bug_Report_Ecommerce.pdf)
-- Mobile App Crash Bug Report:(./Bug-Reports/Bug_Report_MobileApp.docx)
+- Cars.ng bug report : *https://docs.google.com/spreadsheets/d/1tq1S9tzXc-PhxBQGFL9TlAL4TYqxuHL_Ggsu7XQcEsU/edit?usp=sharing*
+
+- 
 
 ### ✅ Test Cases
-- Login Functionality Test Cases(./Test-Cases/Login_Test_Cases.xlsx)
-- Checkout Process Test Cases(./Test-Cases/Checkout_Test_Cases.docx)
+-TELEX.IM TEST CASES REPORT: *https://docs.google.com/spreadsheets/d/1zEzg1FeFrNMSMhHeSY_I9tKmVsh1cuYpr_CIyEPpTV4/edit?usp=sharing*
+ENKARE.IO TEST CASES: *https://docs.google.com/spreadsheets/d/1cLxO2UUZCKeKRfxAKaaFVN5bYa1Z-14gHpYY9GRLST4/edit?usp=sharing*
+
 
 ### ⚙️ API Testing
-- Postman Collection: (./API-Testing/Postman_Collections.json)
-- API Test Report: (./API-Testing/API_Testing_Report.pdf)
+- Postman Collection: *https://www.postman.com/spacecraft-operator-40778201/dummy-json-api-testing/overview*
+- API Test Report: *https://docs.google.com/spreadsheets/d/1N302X4cLzZ5yKJUISoC7b9sN5QyMmC5Qf8ZG7n7hjwc/edit?usp=sharing*
 
 ### 🤖 Automation Scripts
-- Selenium Login Test(./Automation-Scripts/selenium_test_script.py)
-- PyTest Login Test(./Automation-Scripts/pytest_login_test.py)
+
 
 ## 📩 Contact Me
 🔗 LinkedIn: https://www.linkedin.com/in/evelyn-kinya/
