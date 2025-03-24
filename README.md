@@ -1,7 +1,7 @@
-# 🛠 QA & Product Tester Portfolio
+# Software Testing Portfolio
 
-## 👋 About Me
-I am a passionate Product Tester with experience in **manual, eploratory and automated testing**, **API testing**, and **bug reporting**. Skilled in tools like **Postman, Selenium, JIRA, and TestRail**, I ensure high-quality software by detecting and documenting bugs effectively.
+##  About Me
+I am a software tester with experience in **manual, eploratory and automated testing**, **API testing**, and **bug reporting**. Skilled in tools like **Postman, Selenium, JIRA, and TestRail**, I ensure high-quality software by detecting and documenting bugs effectively. I have a strong background in software development, with experience in developing applications with Python and Javascript. 
 
 ## 📝 My Testing Work
 ### 🔍 Bug Reports
