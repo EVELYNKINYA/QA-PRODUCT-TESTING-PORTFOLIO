@@ -6,7 +6,7 @@ I am a software tester with experience in **manual, eploratory and automated tes
 ## 📝 My Testing Work
 ### 🔍 Bug Reports
 - Cars.ng bug report : *https://docs.google.com/spreadsheets/d/1tq1S9tzXc-PhxBQGFL9TlAL4TYqxuHL_Ggsu7XQcEsU/edit?usp=sharing*
-- techie.love bug report : *https://docs.google.com/spreadsheets/d/18FPgRUEB30XomYtdmJFemJqoD5zIc8c62s96cwnfB9k/edit?usp=sharing*
+- techie.love bug report : *https://docs.google.com/spreadsheets/d/1-v1VwUlaRUAZNug7EdWpKEbKewuxmdkqTwfYKdZ-F0s/edit?usp=sharing*
 
 ### ✅ Test Cases
 - telex.im : *https://docs.google.com/spreadsheets/d/1zEzg1FeFrNMSMhHeSY_I9tKmVsh1cuYpr_CIyEPpTV4/edit?usp=sharing*
